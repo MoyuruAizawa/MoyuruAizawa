@@ -6,6 +6,6 @@ Previously, I also created TimetableLayout, a RecyclerView.LayoutManager impleme
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoyuruAizawa)](https://github.com/anuraghazra/github-readme-stats)
 
-| [LazyTimetable (Compose)](https://github.com/MoyuruAizawa/LazyTimetable) | [TimetableLayout (RecyclerView)](https://github.com/MoyuruAizawa/TimetableLayout) | [Cropify](https://github.com/MoyuruAizawa/Cropify) |
+| [LazyTimetable](https://github.com/MoyuruAizawa/LazyTimetable) | [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) | [Cropify](https://github.com/MoyuruAizawa/Cropify) |
 | --- | --- | --- |
-| ![LazyTimetable](https://github.com/MoyuruAizawa/Images/blob/master/LazyTimetable/sample_02.gif?raw=true) | ![TimetableLayout](https://github.com/MoyuruAizawa/Images/blob/master/TimetableLayout/sample_01.gif?raw=true) |![Cropify](https://github.com/user-attachments/assets/3f13a2bc-e61b-43d1-a96e-09e49438d820) |
+| <img src="https://github.com/MoyuruAizawa/Images/blob/master/LazyTimetable/sample_01.gif?raw=true" height="320" width="143" /> | <img src="https://github.com/MoyuruAizawa/Images/blob/master/TimetableLayout/sample_01.gif?raw=true" height="320" width="177" /> | <img src="https://github.com/MoyuruAizawa/Images/blob/master/Cropify/sample_01.gif?raw=true" height="320" width="153" /> |
